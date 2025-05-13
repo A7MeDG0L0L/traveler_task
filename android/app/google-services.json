@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278422724793",
+    "project_id": "traveler5454task",
+    "storage_bucket": "traveler5454task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278422724793:android:d9059b5b527141d5bbfb68",
+        "android_client_info": {
+          "package_name": "com.traveler.traveler_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiFjeBKUIdzqiq4XJHJosjK5gfsJ-vKao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
