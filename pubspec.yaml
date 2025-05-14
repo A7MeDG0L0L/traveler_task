@@ -47,6 +47,15 @@ dependencies:
   
   # URL handling for web
   url_launcher: ^6.2.5
+  intl: ^0.20.2
+  
+  # Iconsax package
+  iconsax_flutter: ^1.0.0
+  iconsax_plus: ^1.0.0
+  
+  # Image handling
+  cached_network_image: ^3.3.1
+  octo_image: ^2.0.0
 
 dev_dependencies:
   flutter_test:
